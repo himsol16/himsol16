@@ -14,13 +14,13 @@
 <table>
 <tr>
 <td>
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+<a href="https://linkedin.com/in/himanshu solanki" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
 </a>
 </td>
 
 <td>
-<a href="https://fb.com/YOUR_USERNAME" target="_blank">
+<a href="https://fb.com/himanshu solanki" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="30"/>
 </a>
 </td>
